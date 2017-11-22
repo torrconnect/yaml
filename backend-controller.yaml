@@ -19,7 +19,7 @@ spec:
       containers:
       - name: server
         # Uncomment this line to use the public docker hub image
-        image: torrconnect/kernel
+        image: torrconnect/first
         # my own private Container Registry image
         #image: gcr.io/gdg-apps-1090/graphviz-server
         # Arguments to the image entrypoint, more details here:
